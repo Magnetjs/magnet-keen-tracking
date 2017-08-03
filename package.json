@@ -1,6 +1,6 @@
 {
   "name": "magnet-keen-tracking",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Magnet adapter for keen-tracking",
   "keywords": [
     "magnet",
@@ -27,7 +27,7 @@
   "dependencies": {
     "bluebird": "^3.5.0",
     "keen-tracking": "^1.1.3",
-    "magnet-core": "^3.9.0"
+    "magnet-core": "^4.0.1"
   },
   "devDependencies": {
     "fly": "^2.0.5",
